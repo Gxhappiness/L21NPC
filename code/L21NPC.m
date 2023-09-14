@@ -33,7 +33,8 @@ function W = L21NPC(DATA,delta1,delta2,x0,itmax,epsmax,zeta)
 % delta2 = 0.1; 
 % itmax=100;
 % epsmax=0.02;
-% W = L21NPC(DATA,delta1,delta2,x0,itmax,epsmax) ;
+% zeta=1;
+% W = L21NPC(DATA,delta1,delta2,x0,itmax,epsmax,zeta) ;
 
 
 
